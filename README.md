@@ -9,4 +9,4 @@ It's nice to meet you! My name's Andrew Robbins and I'm an independent Web Devel
 
 I consider myself an expert problem solver that blends complexity with simple and elegant solutions. I specialize in JavaScript CSS HTML and Wordpress. I love building responsive sites and working with JavaScript frameworks like Angular JS. Making the web beautiful is what I do best—let's build something amazing.
 
-## Good luck 😄
+## Good luck ..
