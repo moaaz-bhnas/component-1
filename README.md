@@ -1,5 +1,5 @@
 # Component-1
-You should use CSS [`float`](https://developer.mozilla.org/en-US/docs/Web/CSS/float) and some design properties to build this component.
+You should use CSS [`flexbox`](https://www.youtube.com/watch?v=R0c911HMb9w) and some design properties to build this component.
 
 ## Mock-up
 ![Mock-up](https://i.ibb.co/stTbDRL/2019-04-29-12-49-moaaz-bhnas-github-io.png)
